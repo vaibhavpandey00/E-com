@@ -1,0 +1,29 @@
+.offer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.offer-container{
+    width: 75%;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    margin: 150px;
+    padding: 150px 140px;
+    margin-bottom: 150px;
+    background: rgb(199, 197, 197);
+    border-radius: 20px;
+}
+.offer-left{
+    /* display: flex;
+    flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+}
+.offer-left h1{
+    color: #171717;
+    font-size: 60px;
+    font-weight: 600;
+}
